@@ -1,0 +1,98 @@
+.has-eq-edit-dark-indigo-color {
+    color: #0d1623;
+  }
+
+  .has-eq-edit-dark-indigo-background-color {
+    background-color: #0d1623;
+  }
+
+  .has-eq-edit-white-color {
+    color: #ffffff;
+  }
+
+  .has-eq-edit-white-background-color {
+    background-color: #ffffff;
+  }
+
+  .has-dark-blue-grey-color {
+    color: #1e2f46;
+  }
+
+  .has-dark-blue-grey-background-color {
+    background-color: #1e2f46;
+  }
+
+  .has-eq-edit-light-blue-color {
+    color: #00b5e2;
+  }
+
+  .has-eq-edit-light-blue-background-color {
+    background-color: #00b5e2;
+  }
+
+  .has-blueberry-color {
+    color: #3e439b;
+  }
+
+  .has-blueberry-background-color {
+    background-color: #3e439b;
+  }
+
+  .has-eq-edit-gray-color {
+    color: #f0f3f7;
+  }
+
+  .has-eq-edit-gray-background-color {
+    background-color: #f0f3f7;
+  }
+
+  .has-cerulean-color {
+    color: #0870d8;
+  }
+
+  .has-cerulean-background-color {
+    background-color: #0870d8;
+  }
+
+  .has-eq-dark-light-grey-color {
+    color: #e5e9ee;
+  }
+
+  .has-eq-dark-light-grey-background-color {
+    background-color: #e5e9ee;
+  }
+
+  .has-eq-dull-light-grey-color {
+    color: #f4f4f6;
+  }
+
+  .has-eq-dull-light-grey-background-color {
+    background-color: #f4f4f6;
+  }
+
+  .has-eq-dark-grey-color {
+    color: #979797;
+  }
+
+  .has-eq-dark-grey-background-color {
+    background-color: #979797;
+  }
+
+  .has-eq-dark-purple-color {
+    color: #32356e;
+  }
+
+  .has-eq-dark-purple-background-color {
+    background-color: #32356e;
+  }
+
+   /* @see https://github.com/aFarkas/lazysizes#broken-image-symbol */
+   .js img.lazyload:not([src]) {
+    visibility: hidden;
+  }
+
+  /* @see https://github.com/aFarkas/lazysizes#automatically-setting-the-sizes-attribute */
+  .js img.lazyloaded[data-sizes=auto] {
+    display: block;
+    width: 100%;
+  }
